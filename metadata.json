@@ -1,0 +1,7 @@
+{
+  "name": "Mythic West: Artifact Master",
+  "description": "A hardcore Journey to the West roguelike where you must use the correct magical artifacts to survive specific tribulations from the original novel.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
